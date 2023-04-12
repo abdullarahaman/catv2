@@ -1,7 +1,7 @@
 {
-    "name": "MR CHAND",
-    "version": "2.0.1",
-    "description": "Facebook Messenger Bot Make By MR CHAND .",
+    "name": "CHANDBYPASSBOT",
+    "version": "0.0.1",
+    "description": "Facebook Messenger Bot .",
     "main": "CHAND.js",
     "scripts": {
         "start": "node index",
@@ -46,7 +46,7 @@
         "ms": "",
         "node": "^14.19.0",
         "node-cron": "^3.0.2",
-        "node-superfetch": "^0.3.3",
+        "node-superfetch": "^0.2.3",
         "npm": "^8.4.1",
         "npmlog": "",
         "pastebin-api": "^5.1.5",
